@@ -23,7 +23,7 @@ Feature: Login Functionality
 
     Examples:
       | username | password   |
-      | MECorlu  | Corlu860   |
+      | MEcorlu  | Corlu860 |
       | Techno   | Technogrp3 |
       | Joker    | Batman1    |
 
